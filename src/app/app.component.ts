@@ -8,15 +8,18 @@ import { Component } from "@angular/core";
 export class AppComponent {
   title = "app";
 
-  questions=[];
-  allQuestions=[];
-  reviews=[];
+  questions = [];
+  allQuestions = [];
+  reviews = [];
   showAnswer = false;
+  workouts = ["0", "40", "60"];
+  questionNum = 0;
 
   constructor() {
-
     this.readFile();
   }
+
+
   readFile() {
     this.questions = [];
     this.allQuestions = [];
@@ -37,29 +40,35 @@ export class AppComponent {
   intoArray(lines) {
     // splitting all text data into array "\n" is splitting data from each new line
     //and saving each new line as each element*
-    var self = this;
+
     var lineArr = lines.split("\n");
     var str = "";
 
     var arr = [];
 
-    lineArr.forEach(element => {
+    this.generateQuestion(lineArr);
+  }
 
+  generateQuestion(lineArr) {
+    var self = this;
+    lineArr.forEach(element => {
       if (element === "") return;
       var anwser = self.extractText(element);
-      var q = {}
+      var q = {};
       q["question"] = element.replace('"' + anwser + '"', "_____");
       q["answer"] = anwser;
       q["ori"] = element;
       q["show"] = false;
       q["mark"] = false;
-      self.allQuestions.push(q)
+      self.allQuestions.push(q);
       console.log(element + " ");
     });
     self.shuffle(self.allQuestions);
 
-    //console.log(JSON.stringify(self.allQuestions));
-    for (var i = 0; i < 50; i++) {
+    if (self.questionNum ==0) {
+      self.questionNum = self.allQuestions.length;
+    }
+    for (var i = 0; i < self.questionNum; i++) {
       //var obj = self.randomItem(self.allQuestions);
       var obj = self.allQuestions[i];
       self.questions.push(obj);
@@ -95,26 +104,28 @@ export class AppComponent {
 
   retry() {
     var obj = Object.create(this.reviews);
-    this.questions=obj;
+    this.questions = obj;
     this.reviews = [];
   }
 
   shuffle(arra1) {
-    var ctr = arra1.length, temp, index;
+    var ctr = arra1.length,
+      temp,
+      index;
 
-// While there are elements in the array
+    // While there are elements in the array
     while (ctr > 0) {
-// Pick a random index
-        index = Math.floor(Math.random() * ctr);
-// Decrease ctr by 1
-        ctr--;
-// And swap the last element with it
-        temp = arra1[ctr];
-        arra1[ctr] = arra1[index];
-        arra1[index] = temp;
+      // Pick a random index
+      index = Math.floor(Math.random() * ctr);
+      // Decrease ctr by 1
+      ctr--;
+      // And swap the last element with it
+      temp = arra1[ctr];
+      arra1[ctr] = arra1[index];
+      arra1[index] = temp;
     }
     return arra1;
-}
+  }
 
   modelChanged(newObj, $event) {
     if (this.containsObject(newObj, this.reviews)) return;
@@ -127,17 +138,23 @@ export class AppComponent {
   containsObject(obj, list) {
     var i;
     for (i = 0; i < list.length; i++) {
-        if (list[i]["ori"] === obj["ori"]) {
-            return true;
-        }
+      if (list[i]["ori"] === obj["ori"]) {
+        return true;
+      }
     }
     return false;
-}
+  }
 
   mouseHover(obj) {
     obj["show"] = true;
   }
   mouseLeave(obj) {
     //obj["show"] = false;
+  }
+
+  updateWorkout(target: HTMLSelectElement):void {
+    console.log(target.value);
+    this.questionNum = Number(target.value);
+    this.readFile();
   }
 }

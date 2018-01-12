@@ -1,0 +1,3599 @@
+[{
+    "question": "雨_____降っています",
+    "answer": "が",
+    "ori": "雨\"が\"降っています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "魚_____水中で泳いでいます",
+    "answer": "が",
+    "ori": "魚\"が\"水中で泳いでいます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "桜の花_____綺麗に咲いています",
+    "answer": "が",
+    "ori": "桜の花\"が\"綺麗に咲いています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "バス_____来た",
+    "answer": "が",
+    "ori": "バス\"が\"来た",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "隣の部屋から一人の女の人_____出てきた",
+    "answer": "が",
+    "ori": "隣の部屋から一人の女の人\"が\"出てきた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "東京_____日本の首都である",
+    "answer": "は",
+    "ori": "東京\"は\"日本の首都である",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "クジラ_____魚ではない",
+    "answer": "は",
+    "ori": "クジラ\"は\"魚ではない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "今日は雨_____降っていません",
+    "answer": "は",
+    "ori": "今日は雨\"は\"降っていません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "どれ_____あなたの万年筆ですか",
+    "answer": "が",
+    "ori": "どれ\"が\"あなたの万年筆ですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "どこ_____あなたの研究室ですか",
+    "answer": "が",
+    "ori": "どこ\"が\"あなたの研究室ですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "どちら_____よろしいですか",
+    "answer": "が",
+    "ori": "どちら\"が\"よろしいですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "果物の中ではあなたは何_____一番好きですか",
+    "answer": "が",
+    "ori": "果物の中ではあなたは何\"が\"一番好きですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "りんごとみかんとどちら_____お好きですか",
+    "answer": "が",
+    "ori": "りんごとみかんとどちら\"が\"お好きですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "誰か_____窓ガラスを割りますか",
+    "answer": "が",
+    "ori": "誰か\"が\"窓ガラスを割りますか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "何か_____起きそうだ",
+    "answer": "が",
+    "ori": "何か\"が\"起きそうだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "どなた_____田中さんですか",
+    "answer": "が",
+    "ori": "どなた\"が\"田中さんですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "田中さん_____どなたですか",
+    "answer": "は",
+    "ori": "田中さん\"は\"どなたですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "テーブルの上に灰皿_____ある",
+    "answer": "が",
+    "ori": "テーブルの上に灰皿\"が\"ある",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "門の前に犬_____いる",
+    "answer": "が",
+    "ori": "門の前に犬\"が\"いる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "壁に絵_____かけてあります",
+    "answer": "が",
+    "ori": "壁に絵\"が\"かけてあります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "掲示板にポスター_____貼ってあります",
+    "answer": "が",
+    "ori": "掲示板にポスター\"が\"貼ってあります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "机の上に本_____あります",
+    "answer": "が",
+    "ori": "机の上に本\"が\"あります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "本_____机の上にあります",
+    "answer": "は",
+    "ori": "本\"は\"机の上にあります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あなた_____行かなければ私も行きません",
+    "answer": "が",
+    "ori": "あなた\"が\"行かなければ私も行きません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "佐藤さん_____来たら知らせてください",
+    "answer": "が",
+    "ori": "佐藤さん\"が\"来たら知らせてください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あの人_____やってくれるので安心しました",
+    "answer": "が",
+    "ori": "あの人\"が\"やってくれるので安心しました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "頭_____痛いなら学校を休んでもいいですよ",
+    "answer": "が",
+    "ori": "頭\"が\"痛いなら学校を休んでもいいですよ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私_____銀座へ行くと文明堂のカステラを買います",
+    "answer": "は",
+    "ori": "私\"は\"銀座へ行くと文明堂のカステラを買います",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "君は承知しても僕_____承知しません",
+    "answer": "は",
+    "ori": "君は承知しても僕\"は\"承知しません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "妹_____アメリカへ留学に行ったのは去年のことでした",
+    "answer": "が",
+    "ori": "妹\"が\"アメリカへ留学に行ったのは去年のことでした",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私_____来た時にはここには何もありませんでしたよ",
+    "answer": "が",
+    "ori": "私\"が\"来た時にはここには何もありませんでしたよ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私_____知っているのはこんなところです",
+    "answer": "が",
+    "ori": "私\"が\"知っているのはこんなところです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あなた_____行かなかったのは間違いだ",
+    "answer": "が",
+    "ori": "あなた\"が\"行かなかったのは間違いだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母_____作ってくれた料理はとても美味しかった",
+    "answer": "が",
+    "ori": "母\"が\"作ってくれた料理はとても美味しかった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "象は鼻_____長い",
+    "answer": "が",
+    "ori": "象は鼻\"が\"長い",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼は背_____高い",
+    "answer": "が",
+    "ori": "彼は背\"が\"高い",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼女は目許_____綺麗だ",
+    "answer": "が",
+    "ori": "彼女は目許\"が\"綺麗だ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "カメラ_____欲しいです",
+    "answer": "が",
+    "ori": "カメラ\"が\"欲しいです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "コーヒー_____飲みたい",
+    "answer": "が",
+    "ori": "コーヒー\"が\"飲みたい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私は果物_____好きです",
+    "answer": "が",
+    "ori": "私は果物\"が\"好きです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あの奥様は料理_____上手です",
+    "answer": "が",
+    "ori": "あの奥様は料理\"が\"上手です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "林さんは英語_____下手です",
+    "answer": "が",
+    "ori": "林さんは英語\"が\"下手です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "日本語_____できる",
+    "answer": "が",
+    "ori": "日本語\"が\"できる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "日本語で文章を書くこと_____難しいと思います",
+    "answer": "が",
+    "ori": "日本語で文章を書くこと\"が\"難しいと思います",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "僕は蛇_____怖い",
+    "answer": "が",
+    "ori": "僕は蛇\"が\"怖い",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "木村さん_____カメラを欲しがっている",
+    "answer": "は",
+    "ori": "木村さん\"は\"カメラを欲しがっている",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "水_____飲みたい",
+    "answer": "が",
+    "ori": "水\"が\"飲みたい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "水_____飲みたい",
+    "answer": "を",
+    "ori": "水\"を\"飲みたい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "本箱_____購入したい",
+    "answer": "を",
+    "ori": "本箱\"を\"購入したい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先生のお話_____みんなと一緒に聞きたい",
+    "answer": "を",
+    "ori": "先生のお話\"を\"みんなと一緒に聞きたい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "鬼_____島",
+    "answer": "が",
+    "ori": "鬼\"が\"島",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "我_____国は歴史の古い国である",
+    "answer": "が",
+    "ori": "我\"が\"国は歴史の古い国である",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この馬鹿者め_____",
+    "answer": "が",
+    "ori": "この馬鹿者め\"が\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "なんだあの気違い_____",
+    "answer": "が",
+    "ori": "なんだあの気違い\"が\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "行った方_____いい",
+    "answer": "が",
+    "ori": "行った方\"が\"いい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "会ったこと_____ある",
+    "answer": "が",
+    "ori": "会ったこと\"が\"ある",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "そんな気_____する",
+    "answer": "が",
+    "ori": "そんな気\"が\"する",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "泣いたって仕方_____ない",
+    "answer": "が",
+    "ori": "泣いたって仕方\"が\"ない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "めまい_____する",
+    "answer": "が",
+    "ori": "めまい\"が\"する",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "いい匂い_____する",
+    "answer": "が",
+    "ori": "いい匂い\"が\"する",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "寒気_____する",
+    "answer": "が",
+    "ori": "寒気\"が\"する",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "早く行く_____いい",
+    "answer": "が",
+    "ori": "早く行く\"が\"いい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "逃げる_____勝ち",
+    "answer": "が",
+    "ori": "逃げる\"が\"勝ち",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私_____本",
+    "answer": "の",
+    "ori": "私\"の\"本",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "桜_____花",
+    "answer": "の",
+    "ori": "桜\"の\"花",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "台湾大学_____学生",
+    "answer": "の",
+    "ori": "台湾大学\"の\"学生",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "兄は英語_____先生をしています",
+    "answer": "の",
+    "ori": "兄は英語\"の\"先生をしています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "家は学校_____近くにあります",
+    "answer": "の",
+    "ori": "家は学校\"の\"近くにあります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "友人から_____手紙を受け取りました",
+    "answer": "の",
+    "ori": "友人から\"の\"手紙を受け取りました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "新宿から荻窪まで_____定期券を持っている",
+    "answer": "の",
+    "ori": "新宿から荻窪まで\"の\"定期券を持っている",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "友人_____田中さんからの手紙です",
+    "answer": "の",
+    "ori": "友人\"の\"田中さんからの手紙です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "それは学生_____あなたのすることではない",
+    "answer": "の",
+    "ori": "それは学生\"の\"あなたのすることではない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "詩人_____光太郎が作った詩です",
+    "answer": "の",
+    "ori": "詩人\"の\"光太郎が作った詩です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "長男_____信太郎は学校の先生です",
+    "answer": "の",
+    "ori": "長男\"の\"信太郎は学校の先生です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "妹_____節子が午後の日航機で東京へ行きます",
+    "answer": "の",
+    "ori": "妹\"の\"節子が午後の日航機で東京へ行きます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "国語学者 中田祝夫",
+    "answer": "国語学者 中田祝夫",
+    "ori": "国語学者 中田祝夫",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "小説家 夏目漱石",
+    "answer": "小説家 夏目漱石",
+    "ori": "小説家 夏目漱石",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母_____作ってくれたお菓子はとっても美味しかったです",
+    "answer": "の",
+    "ori": "母\"の\"作ってくれたお菓子はとっても美味しかったです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "頭_____痛い時にはこの薬を飲んでください",
+    "answer": "の",
+    "ori": "頭\"の\"痛い時にはこの薬を飲んでください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "こ_____子は親の言うことをちっとも聞かない",
+    "answer": "の",
+    "ori": "こ\"の\"子は親の言うことをちっとも聞かない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "お茶_____飲みたい方は隣の部屋へどうぞ",
+    "answer": "の",
+    "ori": "お茶\"の\"飲みたい方は隣の部屋へどうぞ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "誰だろうこんな雨_____降る夜更けに",
+    "answer": "の",
+    "ori": "誰だろうこんな雨\"の\"降る夜更けに",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼女が自殺した_____は失恋のせいばかりではない",
+    "answer": "の",
+    "ori": "彼女が自殺した\"の\"は失恋のせいばかりではない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "雨_____降った場合は中止します",
+    "answer": "が",
+    "ori": "雨\"が\"降った場合は中止します",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "これは息子_____友達からもらった写真です",
+    "answer": "が",
+    "ori": "これは息子\"が\"友達からもらった写真です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "これは息子_____友達からもらった写真です",
+    "answer": "の",
+    "ori": "これは息子\"の\"友達からもらった写真です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "もうずいぶん日_____経ったような気がします",
+    "answer": "が",
+    "ori": "もうずいぶん日\"が\"経ったような気がします",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "赤_____四角いのが欲しい",
+    "answer": "の",
+    "ori": "赤\"の\"四角いのが欲しい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "シャツ_____赤いのが見えなくなった",
+    "answer": "の",
+    "ori": "シャツ\"の\"赤いのが見えなくなった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "今日は真夏_____ような暑さだ",
+    "answer": "の",
+    "ori": "今日は真夏\"の\"ような暑さだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "校則を下記_____如く改定する",
+    "answer": "の",
+    "ori": "校則を下記\"の\"如く改定する",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "りんごは青森_____が美味しい",
+    "answer": "の",
+    "ori": "りんごは青森\"の\"が美味しい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "前のと比べると今度_____は大きかった",
+    "answer": "の",
+    "ori": "前のと比べると今度\"の\"は大きかった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "もっと大きい_____をください",
+    "answer": "の",
+    "ori": "もっと大きい\"の\"をください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "魚のうまい_____が食べたい",
+    "answer": "の",
+    "ori": "魚のうまい\"の\"が食べたい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "証拠があるから調べる_____だ",
+    "answer": "の",
+    "ori": "証拠があるから調べる\"の\"だ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あの人がコップを割った_____です",
+    "answer": "の",
+    "ori": "あの人がコップを割った\"の\"です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "バス_____行きました",
+    "answer": "で",
+    "ori": "バス\"で\"行きました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "バスで行った_____です",
+    "answer": "の",
+    "ori": "バスで行った\"の\"です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "今度はバスで行_____です",
+    "answer": "くん",
+    "ori": "今度はバスで行\"くん\"です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "もはや手遅れな_____だ",
+    "answer": "ん",
+    "ori": "もはや手遅れな\"ん\"だ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "良い_____悪い\"の\"と文句を言う",
+    "answer": "の",
+    "ori": "良い\"の\"悪い\"の\"と文句を言う",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "やる_____やらない\"の\"と皆の意見が決まらない",
+    "answer": "の",
+    "ori": "やる\"の\"やらない\"の\"と皆の意見が決まらない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "許す_____許さない\"の\"ともめている",
+    "answer": "の",
+    "ori": "許す\"の\"許さない\"の\"ともめている",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母へ_____プレゼント",
+    "answer": "の",
+    "ori": "母へ\"の\"プレゼント",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "東京で_____留学生活",
+    "answer": "の",
+    "ori": "東京で\"の\"留学生活",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校より_____通知",
+    "answer": "の",
+    "ori": "学校より\"の\"通知",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "友人から_____手紙",
+    "answer": "の",
+    "ori": "友人から\"の\"手紙",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼女はど_____デート",
+    "answer": "の",
+    "ori": "彼女はど\"の\"デート",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "デパートで靴下_____買いました",
+    "answer": "を",
+    "ori": "デパートで靴下\"を\"買いました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "図書館で本_____読んでいます",
+    "answer": "を",
+    "ori": "図書館で本\"を\"読んでいます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私は毎朝牛乳_____飲みます",
+    "answer": "を",
+    "ori": "私は毎朝牛乳\"を\"飲みます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "停留所バスの来るの_____待っていたがなかなか来ない",
+    "answer": "を",
+    "ori": "停留所バスの来るの\"を\"待っていたがなかなか来ない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "父はいつも朝ごはんの時に新聞_____読む",
+    "answer": "を",
+    "ori": "父はいつも朝ごはんの時に新聞\"を\"読む",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "もっと元気_____出してください",
+    "answer": "を",
+    "ori": "もっと元気\"を\"出してください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ご飯_____食べた",
+    "answer": "を",
+    "ori": "ご飯\"を\"食べた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "タバコ_____持ってきて",
+    "answer": "を",
+    "ori": "タバコ\"を\"持ってきて",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "外国人_____教える",
+    "answer": "を",
+    "ori": "外国人\"を\"教える",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "日本語_____教える",
+    "answer": "を",
+    "ori": "日本語\"を\"教える",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "外国人に日本語_____教える",
+    "answer": "を",
+    "ori": "外国人に日本語\"を\"教える",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "仙台の夜景_____撮る",
+    "answer": "を",
+    "ori": "仙台の夜景\"を\"撮る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "写真_____撮る",
+    "answer": "を",
+    "ori": "写真\"を\"撮る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "仙台の夜景_____写真に撮る",
+    "answer": "を",
+    "ori": "仙台の夜景\"を\"写真に撮る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "毛糸_____編む",
+    "answer": "を",
+    "ori": "毛糸\"を\"編む",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "セーター_____編む",
+    "answer": "を",
+    "ori": "セーター\"を\"編む",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "毛糸でセーター_____編む",
+    "answer": "を",
+    "ori": "毛糸でセーター\"を\"編む",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "毛糸_____セーターに編む",
+    "answer": "を",
+    "ori": "毛糸\"を\"セーターに編む",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "鳥が空_____飛ぶ",
+    "answer": "を",
+    "ori": "鳥が空\"を\"飛ぶ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "道_____歩く",
+    "answer": "を",
+    "ori": "道\"を\"歩く",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私は毎朝公園_____散歩します",
+    "answer": "を",
+    "ori": "私は毎朝公園\"を\"散歩します",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "廊下_____走る",
+    "answer": "を",
+    "ori": "廊下\"を\"走る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "橋_____渡る",
+    "answer": "を",
+    "ori": "橋\"を\"渡る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "このバスは新宿_____通りますか",
+    "answer": "を",
+    "ori": "このバスは新宿\"を\"通りますか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "去年の夏休みは北海道_____旅行してきました",
+    "answer": "を",
+    "ori": "去年の夏休みは北海道\"を\"旅行してきました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "電車はまもなく目白_____通って池袋に着きます",
+    "answer": "を",
+    "ori": "電車はまもなく目白\"を\"通って池袋に着きます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "家_____出る",
+    "answer": "を",
+    "ori": "家\"を\"出る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "故鄉_____離れる",
+    "answer": "を",
+    "ori": "故鄉\"を\"離れる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "職場_____去る",
+    "answer": "を",
+    "ori": "職場\"を\"去る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "今朝8時に家_____出ました",
+    "answer": "を",
+    "ori": "今朝8時に家\"を\"出ました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "妹は去年の6月に大学_____卒業して今学校の先生をしています",
+    "answer": "を",
+    "ori": "妹は去年の6月に大学\"を\"卒業して今学校の先生をしています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "夜行列車は上野駅_____出発した",
+    "answer": "を",
+    "ori": "夜行列車は上野駅\"を\"出発した",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "田中さんは今朝台北_____立って東京へ向かった",
+    "answer": "を",
+    "ori": "田中さんは今朝台北\"を\"立って東京へ向かった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "船を岸壁_____離れる",
+    "answer": "から",
+    "ori": "船を岸壁\"から\"離れる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "船は岸壁_____離れる",
+    "answer": "を",
+    "ori": "船は岸壁\"を\"離れる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校_____出る",
+    "answer": "から",
+    "ori": "学校\"から\"出る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校_____出る",
+    "answer": "を",
+    "ori": "学校\"を\"出る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "電車は上野駅_____出ました",
+    "answer": "を",
+    "ori": "電車は上野駅\"を\"出ました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "火事の時は非常口_____でてください",
+    "answer": "から",
+    "ori": "火事の時は非常口\"から\"でてください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あの信号_____右へ曲がってすぐです",
+    "answer": "を",
+    "ori": "あの信号\"を\"右へ曲がってすぐです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "次の角_____左に曲がれば銀行があります",
+    "answer": "を",
+    "ori": "次の角\"を\"左に曲がれば銀行があります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "突き当たり_____右に曲がって50Mぐらいです",
+    "answer": "を",
+    "ori": "突き当たり\"を\"右に曲がって50Mぐらいです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この道をまっすぐ行って次の信号_____左に曲がってください",
+    "answer": "を",
+    "ori": "この道をまっすぐ行って次の信号\"を\"左に曲がってください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "子供_____泣かせるな",
+    "answer": "を",
+    "ori": "子供\"を\"泣かせるな",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私_____ハワイへ留学に行かせてください",
+    "answer": "を",
+    "ori": "私\"を\"ハワイへ留学に行かせてください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "坂田さん_____怒らせたのは私ではありません",
+    "answer": "を",
+    "ori": "坂田さん\"を\"怒らせたのは私ではありません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私は病気をして親_____心配させました",
+    "answer": "を",
+    "ori": "私は病気をして親\"を\"心配させました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "自分は来ないで他の人_____こさせた",
+    "answer": "を",
+    "ori": "自分は来ないで他の人\"を\"こさせた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先生は学生_____本を読ませました",
+    "answer": "に",
+    "ori": "先生は学生\"に\"本を読ませました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母は弟_____部屋を掃除させました",
+    "answer": "に",
+    "ori": "母は弟\"に\"部屋を掃除させました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母は妹_____買い物に行かせた",
+    "answer": "を",
+    "ori": "母は妹\"を\"買い物に行かせた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母は妹_____買い物に行かせた",
+    "answer": "に",
+    "ori": "母は妹\"に\"買い物に行かせた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "6年間_____東京で過ごした",
+    "answer": "を",
+    "ori": "6年間\"を\"東京で過ごした",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "楽しい一時_____みんなと一緒に過ごしたい",
+    "answer": "を",
+    "ori": "楽しい一時\"を\"みんなと一緒に過ごしたい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "一生_____日本語の先生として送りたい",
+    "answer": "を",
+    "ori": "一生\"を\"日本語の先生として送りたい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "有意義な高校生活_____送ろうと思っています",
+    "answer": "を",
+    "ori": "有意義な高校生活\"を\"送ろうと思っています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "子供の幸運_____喜んだ",
+    "answer": "を",
+    "ori": "子供の幸運\"を\"喜んだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼女は自分の不運_____嘆いた",
+    "answer": "を",
+    "ori": "彼女は自分の不運\"を\"嘆いた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "野口君は友人の死_____悲しむ",
+    "answer": "を",
+    "ori": "野口君は友人の死\"を\"悲しむ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "子供たちの成長_____楽しむ",
+    "answer": "を",
+    "ori": "子供たちの成長\"を\"楽しむ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "40度_____超える暑さ",
+    "answer": "を",
+    "ori": "40度\"を\"超える暑さ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "一万人_____上回る参加者",
+    "answer": "を",
+    "ori": "一万人\"を\"上回る参加者",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "株価は1000円の大台_____割った",
+    "answer": "を",
+    "ori": "株価は1000円の大台\"を\"割った",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "100m競走に10秒_____切る",
+    "answer": "を",
+    "ori": "100m競走に10秒\"を\"切る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "留学生会館は駒場_____あります",
+    "answer": "に",
+    "ori": "留学生会館は駒場\"に\"あります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "両親は田舎_____住んでいます",
+    "answer": "に",
+    "ori": "両親は田舎\"に\"住んでいます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "車は駐車場_____止まっています",
+    "answer": "に",
+    "ori": "車は駐車場\"に\"止まっています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校の近く_____新しいビルができました",
+    "answer": "に",
+    "ori": "学校の近く\"に\"新しいビルができました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私は朝6時_____起きます",
+    "answer": "に",
+    "ori": "私は朝6時\"に\"起きます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校は午前9時_____始まって午後3時に終わります",
+    "answer": "に",
+    "ori": "学校は午前9時\"に\"始まって午後3時に終わります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "寝る前_____この薬を飲んでください",
+    "answer": "に",
+    "ori": "寝る前\"に\"この薬を飲んでください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "今度の日曜日_____家へ遊びに来てください",
+    "answer": "に",
+    "ori": "今度の日曜日\"に\"家へ遊びに来てください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "勤務中_____油を売るのはやめなさい",
+    "answer": "に",
+    "ori": "勤務中\"に\"油を売るのはやめなさい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "列車は3時10分_____着く予定です",
+    "answer": "に",
+    "ori": "列車は3時10分\"に\"着く予定です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "そこ_____おすわりなさい",
+    "answer": "に",
+    "ori": "そこ\"に\"おすわりなさい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この花を剣山_____生けてください",
+    "answer": "に",
+    "ori": "この花を剣山\"に\"生けてください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ポケット_____ハンカチを押し込みました",
+    "answer": "に",
+    "ori": "ポケット\"に\"ハンカチを押し込みました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "赤とんぼが物干し竿_____止まっている",
+    "answer": "に",
+    "ori": "赤とんぼが物干し竿\"に\"止まっている",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "お医者さんは僕の胸_____聴診器を当てた",
+    "answer": "に",
+    "ori": "お医者さんは僕の胸\"に\"聴診器を当てた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "朝8時に駅の前_____集まってください",
+    "answer": "に",
+    "ori": "朝8時に駅の前\"に\"集まってください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "色が赤_____変わった",
+    "answer": "に",
+    "ori": "色が赤\"に\"変わった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "氷が溶けて水_____なった",
+    "answer": "に",
+    "ori": "氷が溶けて水\"に\"なった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "人口が100万から120万_____増えました",
+    "answer": "に",
+    "ori": "人口が100万から120万\"に\"増えました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学者_____なるためには一生懸命勉強しなければなりません",
+    "answer": "に",
+    "ori": "学者\"に\"なるためには一生懸命勉強しなければなりません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "買わないこと_____しました",
+    "answer": "に",
+    "ori": "買わないこと\"に\"しました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "投票で新しい委員長を小松氏_____決定しました",
+    "answer": "に",
+    "ori": "投票で新しい委員長を小松氏\"に\"決定しました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "お飲み物は何_____なさいますか",
+    "answer": "に",
+    "ori": "お飲み物は何\"に\"なさいますか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先生_____詳しくを報告しました",
+    "answer": "に",
+    "ori": "先生\"に\"詳しくを報告しました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "弟_____本を買ってやりました",
+    "answer": "に",
+    "ori": "弟\"に\"本を買ってやりました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母_____事情を打ち明けた",
+    "answer": "に",
+    "ori": "母\"に\"事情を打ち明けた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ご主人_____よろしくお伝えください",
+    "answer": "に",
+    "ori": "ご主人\"に\"よろしくお伝えください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "文子さん_____電話をしたが留守だった",
+    "answer": "に",
+    "ori": "文子さん\"に\"電話をしたが留守だった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先田中さんからあなた_____電話がありました",
+    "answer": "に",
+    "ori": "先田中さんからあなた\"に\"電話がありました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "デパートへ買い物_____行きました",
+    "answer": "に",
+    "ori": "デパートへ買い物\"に\"行きました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "映画を見_____行きます",
+    "answer": "に",
+    "ori": "映画を見\"に\"行きます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "家中でハイキング_____出かけました",
+    "answer": "に",
+    "ori": "家中でハイキング\"に\"出かけました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "空港へ友達を迎え_____行きました",
+    "answer": "に",
+    "ori": "空港へ友達を迎え\"に\"行きました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "忘れ物を取り_____家へ戻った",
+    "answer": "に",
+    "ori": "忘れ物を取り\"に\"家へ戻った",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "週_____一回くらい映画を見ます",
+    "answer": "に",
+    "ori": "週\"に\"一回くらい映画を見ます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この薬は1日_____3回食前に飲んでください",
+    "answer": "に",
+    "ori": "この薬は1日\"に\"3回食前に飲んでください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この紙を一人_____2枚ずつ配ってください",
+    "answer": "に",
+    "ori": "この紙を一人\"に\"2枚ずつ配ってください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "台湾1年_____3回お米が取れます",
+    "answer": "に",
+    "ori": "台湾1年\"に\"3回お米が取れます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "年_____一回定期検査を受けています",
+    "answer": "に",
+    "ori": "年\"に\"一回定期検査を受けています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "焼き卵_____ソーセージをください",
+    "answer": "に",
+    "ori": "焼き卵\"に\"ソーセージをください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "黒いズボン_____赤いセーターを着ています",
+    "answer": "に",
+    "ori": "黒いズボン\"に\"赤いセーターを着ています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ご飯_____味噌汁\"に\"お新香をください",
+    "answer": "に",
+    "ori": "ご飯\"に\"味噌汁\"に\"お新香をください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "鉛筆_____ノ一トを忘れないように持ってきてください",
+    "answer": "に",
+    "ori": "鉛筆\"に\"ノ一トを忘れないように持ってきてください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先生_____褒められました",
+    "answer": "に",
+    "ori": "先生\"に\"褒められました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "魚が猫_____食べられました",
+    "answer": "に",
+    "ori": "魚が猫\"に\"食べられました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "財布をすり_____すられました",
+    "answer": "に",
+    "ori": "財布をすり\"に\"すられました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "昨夜は友達_____来られて勉強することができませんでした",
+    "answer": "に",
+    "ori": "昨夜は友達\"に\"来られて勉強することができませんでした",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先生は学生_____叱った",
+    "answer": "を",
+    "ori": "先生は学生\"を\"叱った",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学生は先生_____叱られた",
+    "answer": "に",
+    "ori": "学生は先生\"に\"叱られた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "社会の一員として児童_____重んずる",
+    "answer": "を",
+    "ori": "社会の一員として児童\"を\"重んずる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "児童_____社会の一員として重んぜられる",
+    "answer": "は",
+    "ori": "児童\"は\"社会の一員として重んぜられる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "タクシーに泥水_____引っ掛けられた",
+    "answer": "を",
+    "ori": "タクシーに泥水\"を\"引っ掛けられた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "弟がすりに財布_____すられました",
+    "answer": "を",
+    "ori": "弟がすりに財布\"を\"すられました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先生は学生_____本を読ませました",
+    "answer": "に",
+    "ori": "先生は学生\"に\"本を読ませました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼_____その仕事をやらせた",
+    "answer": "に",
+    "ori": "彼\"に\"その仕事をやらせた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "赤ちゃん_____ミルクを飲ませた",
+    "answer": "に",
+    "ori": "赤ちゃん\"に\"ミルクを飲ませた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "姉は私_____嫌いなものを無理に食べさせた",
+    "answer": "に",
+    "ori": "姉は私\"に\"嫌いなものを無理に食べさせた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "大工さん_____家を建てさせる",
+    "answer": "に",
+    "ori": "大工さん\"に\"家を建てさせる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "事務所は駅_____近い",
+    "answer": "に",
+    "ori": "事務所は駅\"に\"近い",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼女は何から何まで母親_____そっくりだ",
+    "answer": "に",
+    "ori": "彼女は何から何まで母親\"に\"そっくりだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "泥棒_____等しい行為ですからやめたほうがいいですよ",
+    "answer": "に",
+    "ori": "泥棒\"に\"等しい行為ですからやめたほうがいいですよ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "今年の冬は去年_____比べて少し寒いようですね",
+    "answer": "に",
+    "ori": "今年の冬は去年\"に\"比べて少し寒いようですね",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼女_____はロシア語ができる",
+    "answer": "に",
+    "ori": "彼女\"に\"はロシア語ができる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私_____できることなら何でもいたします",
+    "answer": "に",
+    "ori": "私\"に\"できることなら何でもいたします",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "僕_____そんな難しい文章が読めるはずはない",
+    "answer": "に",
+    "ori": "僕\"に\"そんな難しい文章が読めるはずはない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私_____はどこが面白いかさっぱり分かりません",
+    "answer": "に",
+    "ori": "私\"に\"はどこが面白いかさっぱり分かりません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "初対面の印象ではかなりの老人_____見える",
+    "answer": "に",
+    "ori": "初対面の印象ではかなりの老人\"に\"見える",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私は自分の様子をひどく滑稽なもの_____感じた",
+    "answer": "に",
+    "ori": "私は自分の様子をひどく滑稽なもの\"に\"感じた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "皮肉な言葉_____聞こえる",
+    "answer": "に",
+    "ori": "皮肉な言葉\"に\"聞こえる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あまりの嬉しさ_____泣き出しました",
+    "answer": "に",
+    "ori": "あまりの嬉しさ\"に\"泣き出しました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あまりのおかしさ_____思わず笑ってしまった",
+    "answer": "に",
+    "ori": "あまりのおかしさ\"に\"思わず笑ってしまった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あまりの寒さ_____震え上がった",
+    "answer": "に",
+    "ori": "あまりの寒さ\"に\"震え上がった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "木の葉が風_____そよいでいる",
+    "answer": "に",
+    "ori": "木の葉が風\"に\"そよいでいる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "田中さんの熱心な気持ち_____心を打たれた",
+    "answer": "に",
+    "ori": "田中さんの熱心な気持ち\"に\"心を打たれた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "横に一列_____並んで下さい",
+    "answer": "に",
+    "ori": "横に一列\"に\"並んで下さい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "垣根越し_____人の家を覗いた",
+    "answer": "に",
+    "ori": "垣根越し\"に\"人の家を覗いた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "旗を左右_____振っていた",
+    "answer": "に",
+    "ori": "旗を左右\"に\"振っていた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "お母様_____お元気のよしお喜び申し上げます",
+    "answer": "には",
+    "ori": "お母様\"には\"お元気のよしお喜び申し上げます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "校長先生_____講堂で講演をなさいます",
+    "answer": "には",
+    "ori": "校長先生\"には\"講堂で講演をなさいます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "その後先生_____いかがをお暮らしでしょうかお伺い申し上げます",
+    "answer": "には",
+    "ori": "その後先生\"には\"いかがをお暮らしでしょうかお伺い申し上げます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "皆様_____お元気でいらっしゃいますか",
+    "answer": "には",
+    "ori": "皆様\"には\"お元気でいらっしゃいますか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "皆様_____お変わりもなくお過ごしのことと存じます",
+    "answer": "には",
+    "ori": "皆様\"には\"お変わりもなくお過ごしのことと存じます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "りんごを朝飯_____食べる",
+    "answer": "に",
+    "ori": "りんごを朝飯\"に\"食べる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ひじ_____枕\"に\"使う",
+    "answer": "を",
+    "ori": "ひじ\"を\"枕\"に\"使う",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "100万円のもとで_____商売を始めた",
+    "answer": "に",
+    "ori": "100万円のもとで\"に\"商売を始めた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "記念_____写真\"を\"写してください",
+    "answer": "に",
+    "ori": "記念\"に\"写真\"を\"写してください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "病気_____口実\"に\"して学校を休む",
+    "answer": "を",
+    "ori": "病気\"を\"口実\"に\"して学校を休む",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "妹は泣き_____泣いた",
+    "answer": "に",
+    "ori": "妹は泣き\"に\"泣いた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "走り_____走ってやっと間に合った",
+    "answer": "に",
+    "ori": "走り\"に\"走ってやっと間に合った",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "雨が降り_____降ったので外出することができませんでした",
+    "answer": "に",
+    "ori": "雨が降り\"に\"降ったので外出することができませんでした",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "考え_____考えた末とうとうあの問題を解けた",
+    "answer": "に",
+    "ori": "考え\"に\"考えた末とうとうあの問題を解けた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "待ち_____待ったお正月はとうとうやってきました",
+    "answer": "に",
+    "ori": "待ち\"に\"待ったお正月はとうとうやってきました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "行く_____行くがいつ行けるか分かりません",
+    "answer": "には",
+    "ori": "行く\"には\"行くがいつ行けるか分かりません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "美味しい_____美味しいがちょっと値段が高いです",
+    "answer": "には",
+    "ori": "美味しい\"には\"美味しいがちょっと値段が高いです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ある_____はあるがここにはもっていない",
+    "answer": "に",
+    "ori": "ある\"に\"はあるがここにはもっていない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この本を終わりまで読む_____読んだが何が書いてあるか難しくてさっぱり分かりません",
+    "answer": "には",
+    "ori": "この本を終わりまで読む\"には\"読んだが何が書いてあるか難しくてさっぱり分かりません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "痛い_____痛いが我慢できないほどではない",
+    "answer": "には",
+    "ori": "痛い\"には\"痛いが我慢できないほどではない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "美味しい_____美味しいがちょっと値段が高いです",
+    "answer": "ことは",
+    "ori": "美味しい\"ことは\"美味しいがちょっと値段が高いです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "行く_____行くがいつ行けるか分かりません",
+    "answer": "ことは",
+    "ori": "行く\"ことは\"行くがいつ行けるか分かりません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "大会は東京_____開催される",
+    "answer": "においで",
+    "ori": "大会は東京\"においで\"開催される",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "規模_____は史上に例を見ない",
+    "answer": "においで",
+    "ori": "規模\"においで\"は史上に例を見ない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あなたの家族のこと_____何が書いてください",
+    "answer": "について",
+    "ori": "あなたの家族のこと\"について\"何が書いてください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "「は」と「が」の使い分け_____の研究",
+    "answer": "について",
+    "ori": "「は」と「が」の使い分け\"について\"の研究",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "子供一人_____手当が3000円出る",
+    "answer": "について",
+    "ori": "子供一人\"について\"手当が3000円出る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "天気予報_____午後から雨が降るそうです",
+    "answer": "によると",
+    "ori": "天気予報\"によると\"午後から雨が降るそうです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "話_____彼女は近々結婚するそうです",
+    "answer": "によると",
+    "ori": "話\"によると\"彼女は近々結婚するそうです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "日本語教育_____二，三の問題についての研究",
+    "answer": "における",
+    "ori": "日本語教育\"における\"二，三の問題についての研究",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "台湾_____人口問題",
+    "answer": "における",
+    "ori": "台湾\"における\"人口問題",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学費の値上げは学生_____大きな問題だ",
+    "answer": "にとって",
+    "ori": "学費の値上げは学生\"にとって\"大きな問題だ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼_____はそんなことは簡単だ",
+    "answer": "にとって",
+    "ori": "彼\"にとって\"はそんなことは簡単だ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "一人_____顔が違うように人によって性格も違います",
+    "answer": "によって",
+    "ori": "一人\"によって\"顔が違うように人によって性格も違います",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "話し合い_____事件を解決した",
+    "answer": "によって",
+    "ori": "話し合い\"によって\"事件を解決した",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "政治_____関心がない",
+    "answer": "に対して",
+    "ori": "政治\"に対して\"関心がない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "子供一人_____手当が3000円出る",
+    "answer": "に対して",
+    "ori": "子供一人\"に対して\"手当が3000円出る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "それはただ口実_____",
+    "answer": "に過ぎない",
+    "ori": "それはただ口実\"に過ぎない\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "1ヶ月の収入はわずか3万円_____",
+    "answer": "に過ぎない",
+    "ori": "1ヶ月の収入はわずか3万円\"に過ぎない\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "外国人_____日本語は上手な方ですよ",
+    "answer": "にしては",
+    "ori": "外国人\"にしては\"日本語は上手な方ですよ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼女_____派手すぎますよ",
+    "answer": "にしては",
+    "ori": "彼女\"にしては\"派手すぎますよ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "時間がありませんからスピーチは一人5分_____",
+    "answer": "に限ります",
+    "ori": "時間がありませんからスピーチは一人5分\"に限ります\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "時計はセ一コー_____",
+    "answer": "に限ります",
+    "ori": "時計はセ一コー\"に限ります\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "きっとあの人の仕業_____",
+    "answer": "に違いない",
+    "ori": "きっとあの人の仕業\"に違いない\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "どこ_____行きますか",
+    "answer": "へ",
+    "ori": "どこ\"へ\"行きますか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "少し前_____出なさい",
+    "answer": "へ",
+    "ori": "少し前\"へ\"出なさい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "図書館_____本を借りに行きます",
+    "answer": "へ",
+    "ori": "図書館\"へ\"本を借りに行きます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あの角を右_____曲がれば銀行があります",
+    "answer": "へ",
+    "ori": "あの角を右\"へ\"曲がれば銀行があります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "低気圧が東_____進んでいる",
+    "answer": "へ",
+    "ori": "低気圧が東\"へ\"進んでいる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "龍山寺_____行きたいんですがどう行けばよろしいでしょうか",
+    "answer": "へ",
+    "ori": "龍山寺\"へ\"行きたいんですがどう行けばよろしいでしょうか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "池の中_____飛び込む",
+    "answer": "へ",
+    "ori": "池の中\"へ\"飛び込む",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "手荷物はロッカー_____しまいなさい",
+    "answer": "へ",
+    "ori": "手荷物はロッカー\"へ\"しまいなさい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ごみはどぶ_____捨ててはいけません",
+    "answer": "へ",
+    "ori": "ごみはどぶ\"へ\"捨ててはいけません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "決戰_____勝ち進んだチームは2チームしかない",
+    "answer": "へ",
+    "ori": "決戰\"へ\"勝ち進んだチームは2チームしかない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先生_____よろしくお伝えください",
+    "answer": "へ",
+    "ori": "先生\"へ\"よろしくお伝えください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "父_____電報を打って合格を知らせて",
+    "answer": "へ",
+    "ori": "父\"へ\"電報を打って合格を知らせて",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "これはあなた_____の贈り物です",
+    "answer": "へ",
+    "ori": "これはあなた\"へ\"の贈り物です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "妹_____のお土産を買いました",
+    "answer": "へ",
+    "ori": "妹\"へ\"のお土産を買いました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "妹_____のプレゼント",
+    "answer": "へ",
+    "ori": "妹\"へ\"のプレゼント",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "音楽愛好者の皆様_____",
+    "answer": "へ",
+    "ori": "音楽愛好者の皆様\"へ\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学生諸君_____",
+    "answer": "へ",
+    "ori": "学生諸君\"へ\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "寝ようとしたところ_____客が来た",
+    "answer": "へ",
+    "ori": "寝ようとしたところ\"へ\"客が来た",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "買い物へ行こうと思っているところ_____友達が訪ねてきた",
+    "answer": "へ",
+    "ori": "買い物へ行こうと思っているところ\"へ\"友達が訪ねてきた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "子供は庭_____遊んでいます",
+    "answer": "で",
+    "ori": "子供は庭\"で\"遊んでいます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私は毎日学校_____日本語を勉強しています",
+    "answer": "で",
+    "ori": "私は毎日学校\"で\"日本語を勉強しています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "どの駅_____乗り換えたらよろしいでしょうか",
+    "answer": "で",
+    "ori": "どの駅\"で\"乗り換えたらよろしいでしょうか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "教室の中_____タバコを吸ってはいけません",
+    "answer": "で",
+    "ori": "教室の中\"で\"タバコを吸ってはいけません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "昼ご飯は新幹線のビュッフェ_____済ませました",
+    "answer": "で",
+    "ori": "昼ご飯は新幹線のビュッフェ\"で\"済ませました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "廊下_____走る",
+    "answer": "で",
+    "ori": "廊下\"で\"走る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "廊下_____走る",
+    "answer": "を",
+    "ori": "廊下\"を\"走る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "廊下_____走る",
+    "answer": "に",
+    "ori": "廊下\"に\"走る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "昨日は病気_____学校を休みました",
+    "answer": "で",
+    "ori": "昨日は病気\"で\"学校を休みました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "受験準備_____毎日忙しい",
+    "answer": "で",
+    "ori": "受験準備\"で\"毎日忙しい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "不注意_____事故が起こった",
+    "answer": "で",
+    "ori": "不注意\"で\"事故が起こった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先生のおかげ_____無事にパスしました",
+    "answer": "で",
+    "ori": "先生のおかげ\"で\"無事にパスしました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "旅行_____すっかりくたびれた",
+    "answer": "で",
+    "ori": "旅行\"で\"すっかりくたびれた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "雨_____野球の試合が流れました",
+    "answer": "で",
+    "ori": "雨\"で\"野球の試合が流れました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "病気_____学校を休もう",
+    "answer": "だから",
+    "ori": "病気\"だから\"学校を休もう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "病気_____学校を休みなさい",
+    "answer": "だから",
+    "ori": "病気\"だから\"学校を休みなさい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "仮病_____学校を休もう",
+    "answer": "で",
+    "ori": "仮病\"で\"学校を休もう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "駒場から電車_____来ました",
+    "answer": "で",
+    "ori": "駒場から電車\"で\"来ました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "毛糸_____セーターを編む",
+    "answer": "で",
+    "ori": "毛糸\"で\"セーターを編む",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "答案は鉛筆_____書きなさい",
+    "answer": "で",
+    "ori": "答案は鉛筆\"で\"書きなさい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "お金_____人の幸せは買えない",
+    "answer": "で",
+    "ori": "お金\"で\"人の幸せは買えない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "パスしたら電報_____お知らせします",
+    "answer": "で",
+    "ori": "パスしたら電報\"で\"お知らせします",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "色眼鏡_____物を見てはいけません",
+    "answer": "で",
+    "ori": "色眼鏡\"で\"物を見てはいけません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "どの方法_____やるか早く決めてください",
+    "answer": "で",
+    "ori": "どの方法\"で\"やるか早く決めてください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "夫婦二人_____旅行に出かけた",
+    "answer": "で",
+    "ori": "夫婦二人\"で\"旅行に出かけた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "裸足_____海岸を歩いた",
+    "answer": "で",
+    "ori": "裸足\"で\"海岸を歩いた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "こんな状態_____勉強できるはずがない",
+    "answer": "で",
+    "ori": "こんな状態\"で\"勉強できるはずがない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "一人_____アパートに住んでいます",
+    "answer": "で",
+    "ori": "一人\"で\"アパートに住んでいます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "みんな_____歌いましょう",
+    "answer": "で",
+    "ori": "みんな\"で\"歌いましょう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "今晩親子水入らず_____食事しましょう",
+    "answer": "で",
+    "ori": "今晩親子水入らず\"で\"食事しましょう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "3本_____100円です",
+    "answer": "で",
+    "ori": "3本\"で\"100円です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "申し込みは明日_____締め切る",
+    "answer": "で",
+    "ori": "申し込みは明日\"で\"締め切る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "1ヶ月三万円_____暮らしています",
+    "answer": "で",
+    "ori": "1ヶ月三万円\"で\"暮らしています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "切符は1時間_____売り切れました",
+    "answer": "で",
+    "ori": "切符は1時間\"で\"売り切れました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "家から会社までは30分_____行けます",
+    "answer": "で",
+    "ori": "家から会社までは30分\"で\"行けます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "一日_____呼んでしまう",
+    "answer": "で",
+    "ori": "一日\"で\"呼んでしまう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "果物の中_____あなたは何が一番好きですか",
+    "answer": "で",
+    "ori": "果物の中\"で\"あなたは何が一番好きですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "日本_____は一番寒い月は何月ですか",
+    "answer": "で",
+    "ori": "日本\"で\"は一番寒い月は何月ですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あなたのクラス_____は誰が一番背が高いですか",
+    "answer": "で",
+    "ori": "あなたのクラス\"で\"は誰が一番背が高いですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "外国語の中_____何語が一番上手ですか",
+    "answer": "で",
+    "ori": "外国語の中\"で\"何語が一番上手ですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この3本のうち_____あなたはどれが一番いいと思いますか",
+    "answer": "で",
+    "ori": "この3本のうち\"で\"あなたはどれが一番いいと思いますか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "リンゴと梨とみかんの中_____どれが一番好きですか",
+    "answer": "で",
+    "ori": "リンゴと梨とみかんの中\"で\"どれが一番好きですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "外務省_____次のような声明を発表した",
+    "answer": "では",
+    "ori": "外務省\"では\"次のような声明を発表した",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校_____そんなことを禁止しています",
+    "answer": "では",
+    "ori": "学校\"では\"そんなことを禁止しています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "気象庁_____台風警報を出した",
+    "answer": "では",
+    "ori": "気象庁\"では\"台風警報を出した",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "警視庁_____今度の殺人事件を慎重に取り調べています",
+    "answer": "では",
+    "ori": "警視庁\"では\"今度の殺人事件を慎重に取り調べています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "最近_____そういうことはもう珍しくない",
+    "answer": "では",
+    "ori": "最近\"では\"そういうことはもう珍しくない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "今日_____電気のない生活などはもう考えられない",
+    "answer": "では",
+    "ori": "今日\"では\"電気のない生活などはもう考えられない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "現在_____何の疑惑を抱いていない",
+    "answer": "では",
+    "ori": "現在\"では\"何の疑惑を抱いていない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "天気予報_____午後から雨が降るそうです",
+    "answer": "では",
+    "ori": "天気予報\"では\"午後から雨が降るそうです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "テレビニュース_____まだハイジャック事件があったそうです",
+    "answer": "では",
+    "ori": "テレビニュース\"では\"まだハイジャック事件があったそうです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "東京_____留学生活",
+    "answer": "での",
+    "ori": "東京\"での\"留学生活",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校_____出来事",
+    "answer": "での",
+    "ori": "学校\"での\"出来事",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "田中さん_____二人で旅行に出かけましたが",
+    "answer": "と",
+    "ori": "田中さん\"と\"二人で旅行に出かけましたが",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母_____一緒に買い物に行きました",
+    "answer": "と",
+    "ori": "母\"と\"一緒に買い物に行きました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あの人_____は赤の他人だ",
+    "answer": "と",
+    "ori": "あの人\"と\"は赤の他人だ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "兄は先月美穂さん_____結婚しました",
+    "answer": "と",
+    "ori": "兄は先月美穂さん\"と\"結婚しました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あんな女_____は1日も早く縁を切りたいと思っています",
+    "answer": "と",
+    "ori": "あんな女\"と\"は1日も早く縁を切りたいと思っています",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼女_____結婚する",
+    "answer": "と",
+    "ori": "彼女\"と\"結婚する",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母_____買い物に行きました",
+    "answer": "と",
+    "ori": "母\"と\"買い物に行きました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母_____一緒に買い物に行きました",
+    "answer": "と",
+    "ori": "母\"と\"一緒に買い物に行きました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "バスがトラック_____衝突した",
+    "answer": "と",
+    "ori": "バスがトラック\"と\"衝突した",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "バスがトラック_____衝突した",
+    "answer": "に",
+    "ori": "バスがトラック\"に\"衝突した",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "水が氷_____なりました",
+    "answer": "と",
+    "ori": "水が氷\"と\"なりました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "長い間の努力も水の泡_____なってしまった",
+    "answer": "と",
+    "ori": "長い間の努力も水の泡\"と\"なってしまった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "通算成績は7勝5敗_____なる",
+    "answer": "と",
+    "ori": "通算成績は7勝5敗\"と\"なる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "塵も積もれば山_____なる",
+    "answer": "と",
+    "ori": "塵も積もれば山\"と\"なる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "水が氷_____なった",
+    "answer": "と",
+    "ori": "水が氷\"と\"なった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "水が氷_____なった",
+    "answer": "に",
+    "ori": "水が氷\"に\"なった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "これで終わり_____する",
+    "answer": "と",
+    "ori": "これで終わり\"と\"する",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "日取りは来月二日_____決定しました",
+    "answer": "と",
+    "ori": "日取りは来月二日\"と\"決定しました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "それは僕の_____違う",
+    "answer": "と",
+    "ori": "それは僕の\"と\"違う",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "このサンプル_____同じものをください",
+    "answer": "と",
+    "ori": "このサンプル\"と\"同じものをください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "僕の背丈は彼_____同じだ",
+    "answer": "と",
+    "ori": "僕の背丈は彼\"と\"同じだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼_____は比べ物にはならない",
+    "answer": "と",
+    "ori": "彼\"と\"は比べ物にはならない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "日本も昔_____比べればだいぶ変わりました",
+    "answer": "と",
+    "ori": "日本も昔\"と\"比べればだいぶ変わりました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "これは彼の_____よく似ている",
+    "answer": "と",
+    "ori": "これは彼の\"と\"よく似ている",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "節子は母_____そっくりだ",
+    "answer": "と",
+    "ori": "節子は母\"と\"そっくりだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "節子は母_____そっくりだ",
+    "answer": "に",
+    "ori": "節子は母\"に\"そっくりだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "娘を文子_____名付けた",
+    "answer": "と",
+    "ori": "娘を文子\"と\"名付けた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "これは利根川_____いう川だ",
+    "answer": "と",
+    "ori": "これは利根川\"と\"いう川だ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "入り口に今日は休ませていただきます_____書いた紙が貼ってあります",
+    "answer": "と",
+    "ori": "入り口に今日は休ませていただきます\"と\"書いた紙が貼ってあります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ではお元気で_____言って別れた",
+    "answer": "と",
+    "ori": "ではお元気で\"と\"言って別れた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "必ずお会いできるもの_____信じております",
+    "answer": "と",
+    "ori": "必ずお会いできるもの\"と\"信じております",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "そんなことがあるはずはない_____思います",
+    "answer": "と",
+    "ori": "そんなことがあるはずはない\"と\"思います",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "何_____想像しようと君の自由だ",
+    "answer": "と",
+    "ori": "何\"と\"想像しようと君の自由だ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "机の上に本_____鉛筆があります",
+    "answer": "と",
+    "ori": "机の上に本\"と\"鉛筆があります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私は果物屋でりんご_____みかんを買いました",
+    "answer": "と",
+    "ori": "私は果物屋でりんご\"と\"みかんを買いました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "コーヒー_____紅茶\"と\"どちらが好きですか",
+    "answer": "と",
+    "ori": "コーヒー\"と\"紅茶\"と\"どちらが好きですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "見ること_____聞くこと\"と\"は大違いだ",
+    "answer": "と",
+    "ori": "見ること\"と\"聞くこと\"と\"は大違いだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ダイヤ_____ガラスのかけら\"と\"では月とすっぽんほどの違いがある",
+    "answer": "と",
+    "ori": "ダイヤ\"と\"ガラスのかけら\"と\"では月とすっぽんほどの違いがある",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "文法を知る_____知らない\"と\"で上達のスピードに大きな差がある",
+    "answer": "と",
+    "ori": "文法を知る\"と\"知らない\"と\"で上達のスピードに大きな差がある",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "机の上に本_____鉛筆\"と\"がある",
+    "answer": "と",
+    "ori": "机の上に本\"と\"鉛筆\"と\"がある",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "文房具屋で紙_____ノート\"と\"を買いました",
+    "answer": "と",
+    "ori": "文房具屋で紙\"と\"ノート\"と\"を買いました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "りんご_____みかん\"と\"どちらが好きですか",
+    "answer": "と",
+    "ori": "りんご\"と\"みかん\"と\"どちらが好きですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "お姉さん_____妹さん\"と\"どちらが背が高いですか",
+    "answer": "と",
+    "ori": "お姉さん\"と\"妹さん\"と\"どちらが背が高いですか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ゆっくり_____歩きましょう",
+    "answer": "と",
+    "ori": "ゆっくり\"と\"歩きましょう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "若い日は二度_____戻らない",
+    "answer": "と",
+    "ori": "若い日は二度\"と\"戻らない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "うとうと_____居眠りをしました",
+    "answer": "と",
+    "ori": "うとうと\"と\"居眠りをしました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "とったばかりの魚が山_____積まれている",
+    "answer": "と",
+    "ori": "とったばかりの魚が山\"と\"積まれている",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "太平洋を西へ西へ_____航海していく",
+    "answer": "と",
+    "ori": "太平洋を西へ西へ\"と\"航海していく",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "次から次へ_____參加者が集まってきた",
+    "answer": "と",
+    "ori": "次から次へ\"と\"參加者が集まってきた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "昨夜は3時間_____寝なかった",
+    "answer": "と",
+    "ori": "昨夜は3時間\"と\"寝なかった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "それを書くのに1時間_____かからない",
+    "answer": "と",
+    "ori": "それを書くのに1時間\"と\"かからない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ここから向こうまで300M_____あるまい",
+    "answer": "と",
+    "ori": "ここから向こうまで300M\"と\"あるまい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "友達_____の約束をすっかり忘れていました",
+    "answer": "と",
+    "ori": "友達\"と\"の約束をすっかり忘れていました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "やらなければならない_____の結論が出た",
+    "answer": "と",
+    "ori": "やらなければならない\"と\"の結論が出た",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校の代表_____出席する",
+    "answer": "として",
+    "ori": "学校の代表\"として\"出席する",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学生_____待遇する",
+    "answer": "として",
+    "ori": "学生\"として\"待遇する",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "醤油_____ものは何から作りますか",
+    "answer": "という",
+    "ori": "醤油\"という\"ものは何から作りますか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "野菊の墓_____小説は伊藤左千夫が書いた作品です",
+    "answer": "という",
+    "ori": "野菊の墓\"という\"小説は伊藤左千夫が書いた作品です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "昨日の雨で花_____花は散ってしまった",
+    "answer": "という",
+    "ori": "昨日の雨で花\"という\"花は散ってしまった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "大正12年の地震は実にひどかった東京の家_____家はほとんど倒れた",
+    "answer": "という",
+    "ori": "大正12年の地震は実にひどかった東京の家\"という\"家はほとんど倒れた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "痩せている人が体が弱い_____",
+    "answer": "とは限らない",
+    "ori": "痩せている人が体が弱い\"とは限らない\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "高いからと言って良い品_____",
+    "answer": "とは限らない",
+    "ori": "高いからと言って良い品\"とは限らない\"",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校は9時_____始まります",
+    "answer": "から",
+    "ori": "学校は9時\"から\"始まります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "午後1時_____会議を行う",
+    "answer": "から",
+    "ori": "午後1時\"から\"会議を行う",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "太陽は東_____昇る",
+    "answer": "から",
+    "ori": "太陽は東\"から\"昇る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校_____また帰ってきません",
+    "answer": "から",
+    "ori": "学校\"から\"また帰ってきません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "朝_____降り続いた雨は夜になってやっとやんだ",
+    "answer": "から",
+    "ori": "朝\"から\"降り続いた雨は夜になってやっとやんだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "母_____の送金が今朝やっと届いた",
+    "answer": "から",
+    "ori": "母\"から\"の送金が今朝やっと届いた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "課長_____部長に昇進しました",
+    "answer": "から",
+    "ori": "課長\"から\"部長に昇進しました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "右の耳_____入り左の耳\"から\"抜けてしまう",
+    "answer": "から",
+    "ori": "右の耳\"から\"入り左の耳\"から\"抜けてしまう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "毎月のサラリー_____引くことにしましょう",
+    "answer": "から",
+    "ori": "毎月のサラリー\"から\"引くことにしましょう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "家は駅_____近いです",
+    "answer": "から",
+    "ori": "家は駅\"から\"近いです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "玄関_____お入りください",
+    "answer": "から",
+    "ori": "玄関\"から\"お入りください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "窓_____物を捨ててはいけません",
+    "answer": "から",
+    "ori": "窓\"から\"物を捨ててはいけません",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "汽車の窓_____海が見えます",
+    "answer": "から",
+    "ori": "汽車の窓\"から\"海が見えます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "泥棒は窓_____忍び込んだ",
+    "answer": "から",
+    "ori": "泥棒は窓\"から\"忍び込んだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "火事の時は非常口_____避難してください",
+    "answer": "から",
+    "ori": "火事の時は非常口\"から\"避難してください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "水は酸素と水素_____なる",
+    "answer": "から",
+    "ori": "水は酸素と水素\"から\"なる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この論文は三つの部分_____構成されている",
+    "answer": "から",
+    "ori": "この論文は三つの部分\"から\"構成されている",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ブランデーは葡萄酒_____作る",
+    "answer": "から",
+    "ori": "ブランデーは葡萄酒\"から\"作る",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この本は上中下3冊_____なる",
+    "answer": "から",
+    "ori": "この本は上中下3冊\"から\"なる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "靴は皮_____作ります",
+    "answer": "で",
+    "ori": "靴は皮\"で\"作ります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "醤油は豆_____作ります",
+    "answer": "から",
+    "ori": "醤油は豆\"から\"作ります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "酒は米_____作ります",
+    "answer": "から",
+    "ori": "酒は米\"から\"作ります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "酒は米_____作ります",
+    "answer": "で",
+    "ori": "酒は米\"で\"作ります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "ちょっとした油断_____大変なことになる",
+    "answer": "から",
+    "ori": "ちょっとした油断\"から\"大変なことになる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "風邪_____肺炎を引き起こしました",
+    "answer": "から",
+    "ori": "風邪\"から\"肺炎を引き起こしました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "タバコの火_____火事を引き起こすことが多い",
+    "answer": "から",
+    "ori": "タバコの火\"から\"火事を引き起こすことが多い",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "話の行き違い_____誤解が生じる",
+    "answer": "から",
+    "ori": "話の行き違い\"から\"誤解が生じる",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼の行動_____判断するとそれはあり得ることです",
+    "answer": "から",
+    "ori": "彼の行動\"から\"判断するとそれはあり得ることです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "不注意_____火事を引き起こした",
+    "answer": "から",
+    "ori": "不注意\"から\"火事を引き起こした",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "不注意_____火事を引き起こした",
+    "answer": "で",
+    "ori": "不注意\"で\"火事を引き起こした",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "運動会は雨_____中止になった",
+    "answer": "で",
+    "ori": "運動会は雨\"で\"中止になった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "それは一体誰_____いいだしたことなんだ",
+    "answer": "から",
+    "ori": "それは一体誰\"から\"いいだしたことなんだ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "先生へは私_____申し上げます",
+    "answer": "から",
+    "ori": "先生へは私\"から\"申し上げます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あなた_____社長に報告しなさい",
+    "answer": "から",
+    "ori": "あなた\"から\"社長に報告しなさい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あなた_____自己紹介しなさい",
+    "answer": "から",
+    "ori": "あなた\"から\"自己紹介しなさい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あなた_____先に乗ってください",
+    "answer": "から",
+    "ori": "あなた\"から\"先に乗ってください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "朗読は君_____始めたまえ",
+    "answer": "から",
+    "ori": "朗読は君\"から\"始めたまえ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "まずこれ_____包みましょう",
+    "answer": "から",
+    "ori": "まずこれ\"から\"包みましょう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "一体誰_____そんなことを聞きましたか",
+    "answer": "から",
+    "ori": "一体誰\"から\"そんなことを聞きましたか",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "音声学は秋永先生_____教わりました",
+    "answer": "から",
+    "ori": "音声学は秋永先生\"から\"教わりました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "父_____最新型のデジタル時計をもらいました",
+    "answer": "から",
+    "ori": "父\"から\"最新型のデジタル時計をもらいました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "友達_____本を借りました",
+    "answer": "から",
+    "ori": "友達\"から\"本を借りました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "見知らぬ人_____声をかけられました",
+    "answer": "から",
+    "ori": "見知らぬ人\"から\"声をかけられました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "田中さん_____聞いた",
+    "answer": "から",
+    "ori": "田中さん\"から\"聞いた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "田中さん_____聞いた",
+    "answer": "に",
+    "ori": "田中さん\"に\"聞いた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "見知らぬ人_____道を尋ねられた",
+    "answer": "から",
+    "ori": "見知らぬ人\"から\"道を尋ねられた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "見知らぬ人_____道を尋ねられた",
+    "answer": "に",
+    "ori": "見知らぬ人\"に\"道を尋ねられた",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "人命救助で学校_____表彰された",
+    "answer": "に",
+    "ori": "人命救助で学校\"に\"表彰された",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "人命救助で学校_____表彰された",
+    "answer": "から",
+    "ori": "人命救助で学校\"から\"表彰された",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "家は大きい木_____囲まれている",
+    "answer": "に",
+    "ori": "家は大きい木\"に\"囲まれている",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "スーツは1万円_____します",
+    "answer": "から",
+    "ori": "スーツは1万円\"から\"します",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "外国製だと安いのでも10万円_____します",
+    "answer": "から",
+    "ori": "外国製だと安いのでも10万円\"から\"します",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "100人_____の人が集まった",
+    "answer": "から",
+    "ori": "100人\"から\"の人が集まった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "雨が止んで_____出かけます",
+    "answer": "から",
+    "ori": "雨が止んで\"から\"出かけます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "国へ帰って_____もう3年の月日が経ちました",
+    "answer": "から",
+    "ori": "国へ帰って\"から\"もう3年の月日が経ちました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "お風呂に入って_____勉強します",
+    "answer": "から",
+    "ori": "お風呂に入って\"から\"勉強します",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この小説は帰って_____ゆっくり読もう",
+    "answer": "から",
+    "ori": "この小説は帰って\"から\"ゆっくり読もう",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "よくよく考えて_____行動しなさい",
+    "answer": "から",
+    "ori": "よくよく考えて\"から\"行動しなさい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "夏休みは6月30日_____です",
+    "answer": "から",
+    "ori": "夏休みは6月30日\"から\"です",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "そうなったのも本人の不注意_____らしい",
+    "answer": "から",
+    "ori": "そうなったのも本人の不注意\"から\"らしい",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "思った_____優しかった",
+    "answer": "より",
+    "ori": "思った\"より\"優しかった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "僕は彼_____背が高い",
+    "answer": "より",
+    "ori": "僕は彼\"より\"背が高い",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "姉_____妹の方が綺麗だ",
+    "answer": "より",
+    "ori": "姉\"より\"妹の方が綺麗だ",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この小説は想像していた_____面白い",
+    "answer": "より",
+    "ori": "この小説は想像していた\"より\"面白い",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "彼は日本語が前_____上手くなった",
+    "answer": "より",
+    "ori": "彼は日本語が前\"より\"上手くなった",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "僕はビール_____ウイスキーの方が好きです",
+    "answer": "より",
+    "ori": "僕はビール\"より\"ウイスキーの方が好きです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "私が説明する_____これを見た方がよく分かると思います",
+    "answer": "より",
+    "ori": "私が説明する\"より\"これを見た方がよく分かると思います",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "会議は午前9時_____始まります",
+    "answer": "より",
+    "ori": "会議は午前9時\"より\"始まります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "学校_____駅まで歩いて15分ぐらいかかります",
+    "answer": "より",
+    "ori": "学校\"より\"駅まで歩いて15分ぐらいかかります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "危ないですから白線_____內側にさがってください",
+    "answer": "より",
+    "ori": "危ないですから白線\"より\"內側にさがってください",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "それは今_____1時間前の出来事でした",
+    "answer": "より",
+    "ori": "それは今\"より\"1時間前の出来事でした",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "3階_____上は婦人用品の売り場でございます",
+    "answer": "より",
+    "ori": "3階\"より\"上は婦人用品の売り場でございます",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "開会は8時_____後が良い",
+    "answer": "より",
+    "ori": "開会は8時\"より\"後が良い",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "バスもタクシーもないところだから歩いて行く_____仕方がない",
+    "answer": "より",
+    "ori": "バスもタクシーもないところだから歩いて行く\"より\"仕方がない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "手術_____他に助かる道はない",
+    "answer": "より",
+    "ori": "手術\"より\"他に助かる道はない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "この道_____他には駅へ行く道はない",
+    "answer": "より",
+    "ori": "この道\"より\"他には駅へ行く道はない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "こうする_____他に方法がない",
+    "answer": "より",
+    "ori": "こうする\"より\"他に方法がない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "赤いの_____青いの\"や\"黄色いのがあります",
+    "answer": "や",
+    "ori": "赤いの\"や\"青いの\"や\"黄色いのがあります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "机の上には本_____新聞\"や\"雑誌などが置いてあります",
+    "answer": "や",
+    "ori": "机の上には本\"や\"新聞\"や\"雑誌などが置いてあります",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "水道_____ガス\"や\"電灯などは日常生活に欠くことのできないものです",
+    "answer": "や",
+    "ori": "水道\"や\"ガス\"や\"電灯などは日常生活に欠くことのできないものです",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "昨日_____今日に始まったことではない",
+    "answer": "や",
+    "ori": "昨日\"や\"今日に始まったことではない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "りんご_____なしを買い求めました",
+    "answer": "や",
+    "ori": "りんご\"や\"なしを買い求めました",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "あれ_____これ\"や\"と考えてみたがわからない",
+    "answer": "や",
+    "ori": "あれ\"や\"これ\"や\"と考えてみたがわからない",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "本_____鉛筆\"と\"消しゴムとがある",
+    "answer": "と",
+    "ori": "本\"と\"鉛筆\"と\"消しゴムとがある",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "本_____鉛筆\"や\"消しゴムなどがある",
+    "answer": "や",
+    "ori": "本\"や\"鉛筆\"や\"消しゴムなどがある",
+    "show": false,
+    "mark": false
+  },
+  {
+    "question": "",
+    "answer": "",
+    "ori": "",
+    "show": false,
+    "mark": false
+  }
+]

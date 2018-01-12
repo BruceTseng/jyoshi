@@ -8,8 +8,6 @@ import { Component } from "@angular/core";
 export class AppComponent {
   title = "app";
 
-
-  selections =["が","の","に","へ","を","と","より","から","で","や"];
   questions=[];
   allQuestions=[];
   reviews=[];

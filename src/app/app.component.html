@@ -1,9 +1,8 @@
 <!--The content below is only a placeholder and can be replaced.-->
-<select (change)="updateWorkout($event.target)">
-  <option *ngFor="let option of workouts" [value]="option" >{{option}}</option>
-</select>
-
 <div id="container" style="line-height: 36px; font-size:18px">
+  <select  (change)="updateWorkout($event.target)">
+    <option *ngFor="let option of workouts" [value]="option">{{option}}</option>
+  </select>
   <span *ngFor="let item of questions; let i = index" [attr.data-index]="i">
     <div id="textSection">
       {{i+1}}.

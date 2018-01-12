@@ -12,7 +12,7 @@ export class AppComponent {
   allQuestions = [];
   reviews = [];
   showAnswer = false;
-  workouts = ["0", "40", "60"];
+  workouts = ["0", "30", "40","50", "60"];
   questionNum = 0;
 
   constructor() {

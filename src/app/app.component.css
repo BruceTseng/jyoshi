@@ -1,0 +1,23 @@
+#container {
+
+  margin-left:auto; margin-right:auto;
+  width: 85%;
+
+
+}
+#textSection {
+
+  box-shadow: 0 3px 3px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 94%;
+    padding: 3px;
+    word-break: break-all;
+    word-wrap: break-word;
+    margin-top: 15px;
+}
+
+.mark {
+    background-color: gray;
+    color: white;
+
+}

@@ -74,12 +74,16 @@ export class AppComponent {
     });
     self.shuffle(self.allQuestions);
 
+    var testNum;
     if (self.questionNum ==0) {
-      self.questionNum = self.allQuestions.length;
+      testNum = self.allQuestions.length;
     } else if (isNaN(self.questionNum)) {
-      self.questionNum = self.allQuestions.length;
+      testNum = self.allQuestions.length;
+    } else {
+      testNum = self.questionNum;
     }
-    for (var i = 0; i < self.questionNum; i++) {
+
+    for (var i = 0; i < testNum; i++) {
       //var obj = self.randomItem(self.allQuestions);
       var obj = self.allQuestions[i];
       self.questions.push(obj);

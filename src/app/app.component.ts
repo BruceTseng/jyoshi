@@ -12,7 +12,7 @@ export class AppComponent {
   allQuestions = [];
   reviews = [];
   showAnswer = false;
-  workouts = ["0", "30", "40","50", "60"];
+  workouts = ["0", "30", "40","50", "60", "*"];
   questionNum = 0;
 
   constructor() {
@@ -25,7 +25,15 @@ export class AppComponent {
     this.allQuestions = [];
     var self = this;
     var rawFile = new XMLHttpRequest();
-    rawFile.open("GET", "assets/file1.txt", true);
+
+    if (isNaN(self.questionNum)) {
+      console.log(typeof(self.questionNum) + " 1 " + self.questionNum);
+      rawFile.open("GET", "assets/file2.txt", true);
+    } else {
+      console.log(typeof(self.questionNum) + " 2 " + self.questionNum);
+      rawFile.open("GET", "assets/file1.txt", true);
+    }
+
     rawFile.onreadystatechange = function() {
       if (rawFile.readyState === 4) {
         var allText = rawFile.responseText;
@@ -38,6 +46,7 @@ export class AppComponent {
   }
 
   intoArray(lines) {
+    console.log(lines);
     // splitting all text data into array "\n" is splitting data from each new line
     //and saving each new line as each element*
 
@@ -61,11 +70,13 @@ export class AppComponent {
       q["show"] = false;
       q["mark"] = false;
       self.allQuestions.push(q);
-      console.log(element + " ");
+      //console.log(element + " ");
     });
     self.shuffle(self.allQuestions);
 
     if (self.questionNum ==0) {
+      self.questionNum = self.allQuestions.length;
+    } else if (isNaN(self.questionNum)) {
       self.questionNum = self.allQuestions.length;
     }
     for (var i = 0; i < self.questionNum; i++) {
@@ -155,6 +166,7 @@ export class AppComponent {
   updateWorkout(target: HTMLSelectElement):void {
     console.log(target.value);
     this.questionNum = Number(target.value);
+    console.log(this.questionNum);
     this.readFile();
   }
 }
